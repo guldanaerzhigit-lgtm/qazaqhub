@@ -1,7 +1,7 @@
 {
   "name": "qazaqhub",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "vite": "^5.4.14"
+    "vite": "^6.4.1"
   },
   "devDependencies": {}
 }
